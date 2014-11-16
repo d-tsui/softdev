@@ -14,11 +14,9 @@ Fall Semester, Period 7
 *Description*: Blog with SQL storage, comments, and timestamps
 #### https://github.com/RzhanRichardZhan/Bloglite.git
 
-### Zip Code lookup
-#### Team members
-Derek Tsui, Max Zhou, Ling Dong
-#### Description
-Zip code lookup, retrieves maps + weather + census data
+### Zip Code lookup (API Project)
+*Team members*: Derek Tsui, Max Zhou, Ling Dong
+*Description*: Zip code lookup, retrieves maps + weather + census data using APIs
 #### https://github.com/asprout/applei.git
 
 ## Mini Projects
