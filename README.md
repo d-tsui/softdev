@@ -33,3 +33,6 @@ Fall Semester, Period 7
  * decorated login project
   * Derek Tsui, Justin Strauss
   * https://github.com/justinstrauss/decorate.git
+ * javascript to-do list
+  * Derek Tsui
+  * 7/todo/derektsui
