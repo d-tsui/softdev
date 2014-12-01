@@ -35,4 +35,4 @@ Fall Semester, Period 7
   * https://github.com/justinstrauss/decorate.git
  * javascript to-do list
   * Derek Tsui
-  * 7/todo/derektsui
+  * 7/todo/dtsui
