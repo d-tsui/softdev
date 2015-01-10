@@ -2,6 +2,12 @@ Derek Tsui, SoftDev
 =======
 Fall Semester, Period 7
 
+## Final Project
+### Chill with Friends
+*Team members* : Derek Tsui, Justin Strauss, Leb Akabas, Dennis Nenov
+*Description* : Using the Yelp and Facebook APIs in a social planning web app
+### https://github.com/justinstrauss/finalproj.git
+
 ## Main Projects
 
 ### Language Interpreter/Data Scraping
